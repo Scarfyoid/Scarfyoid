@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Scarfyoid
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning general xomputer science in uni
+- 🌱 I’m currently learning general computer science in uni
 - 💞️ I’m looking to collaborate on stupid and maybe useful stuff
-- 📫 How to reach me @Scarfyoid on discord
+- 📫 @Scarfyoid on discord
 - 😄 Pronouns: she/they
 - speaks 🇫🇷🇬🇧
 
